@@ -38,6 +38,8 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do proj
 - **[Hibernate](https://hibernate.org)**
 - **[Flyway](https://flywaydb.org)**
 - **[Lombok](https://projectlombok.org)**
+- **JUnit**
+- **Mockito**
 
 ---
 ## Aprendizados
@@ -58,16 +60,4 @@ Este projeto é uma poc que exercita os conceitos basicos de Spring-Boot, dentre
 - Documentação da API - Utilizando o Swagger
 - Testes automatizados
 - Build do Projet
-
----
-## Tecnologias
-
-- Spring Security
-- JWT Token lib
-- Flyway - Migrations
-- DB - Postgres or MySql
-- Maven
-- SpringDoc
-- JUnit
-- Mockito
 
