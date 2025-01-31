@@ -40,6 +40,34 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do proj
 - **[Lombok](https://projectlombok.org)**
 
 ---
-
+## Aprendizados
+Este projeto é uma poc que exercita os conceitos basicos de Spring-Boot, dentre eles
+- Spring Initializr 
+- Estrutura do projeto
+- CRUD na api
+- Requisições POST
+- Spring Data JPA
+- Requisições GET
+- Requisições PUT e DELETE
+- Boas práticas na API
+- Lidando com erros
+- Spring Security
+- JSON Web Token - Utilização do JWT
+- Controle de acesso
+- Regras de negócio - aplicação dos principios SOLID
+- Documentação da API - Utilizando o Swagger
+- Testes automatizados
+- Build do Projet
 
 ---
+## Tecnologias
+
+- Spring Security
+- JWT Token lib
+- Flyway - Migrations
+- DB - Postgres or MySql
+- Maven
+- SpringDoc
+- JUnit
+- Mockito
+
